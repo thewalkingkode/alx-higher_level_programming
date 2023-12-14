@@ -1,6 +1,0 @@
-#!/usr/bin/python3
-for num in range(97, 123):
-    if num == 'e' or num == 'q':
-        continue
-    else:
-        print("{}".format(chr(num)), end="")
