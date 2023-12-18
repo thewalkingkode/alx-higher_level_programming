@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-import add_0
+from add_0 import add
 
-def add(a, b):
-    add_num = add_0(a, b)
-    print(f"{a} + {b} = {add_num}")
-    print(add_num)
+a = 1
+b = 2
+add_num = add(a, b)
+print(f"{a} + {b} = {add_num}")
