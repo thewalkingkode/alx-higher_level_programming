@@ -13,5 +13,5 @@ if __name__ == "__main__":
     print("{} + {} = {}".format(a, b, add_num))
     print("{} - {} = {}".format(a, b, sub_num))
     print("{} * {} = {}".format(a, b, mul_num))
-    print("{} + {} = {}".format(a, b, div_num))
+    print("{} / {} = {}".format(a, b, div_num))
 
