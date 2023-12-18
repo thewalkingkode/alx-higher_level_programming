@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+import add_0
+
+def add(a, b):
+    add_num = add_0.add_num(a, b)
+    print(add_num)
